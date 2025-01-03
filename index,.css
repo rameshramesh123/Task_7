@@ -1,0 +1,78 @@
+*{
+    margin:0;
+    padding: 0;
+}
+ .big_container{
+    width: 80%;
+    margin: auto;
+    background-color:rgb(211, 212, 191) ;
+    height: 700px;
+    
+ }
+ 
+.nav_container .navigation{
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(37, 50, 37);
+    padding: 20px 0;
+    height: 40px;
+}
+.navigation h1{
+    color: #fff;
+    padding: 15px;
+    letter-spacing:1.5px;
+    margin-right:450px ;
+    
+}
+.navigation .image{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 10px;
+    
+}
+ .left-box{
+    background-color:rgb(30, 34, 30);
+    height: 500px;
+    width: 200px;
+    border-radius: 15px;
+    margin-top:50px;
+    margin-left: 50px;
+    box-sizing: border-box;
+    float: left;
+    width: 33.3%;
+ }
+ .searchBar{
+    background-color:rgb(30, 34, 30);
+    height: 50px;
+    width: 400px;
+    border-radius: 15px;
+    margin-top:50px;
+    margin-right: 100px;
+    float: right;
+    box-sizing: border-box;
+ }
+ .searchBar p{
+    color: #fff;
+    padding: 15px;
+    letter-spacing:1.5px;
+ }
+ .box3{
+    background-color:rgb(30, 34, 30);
+    height: 100px;
+    width: 130px;
+    border-radius: 15px;
+    margin-top:70px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    float: right;
+ }
+ .medium-box{
+    background-color:rgb(30, 34, 30);
+    height: 200px;
+    width: 500px;
+    border-radius: 15px;
+    margin-top:50px;
+    margin-right: 50px;
+    float: right;
+ }
